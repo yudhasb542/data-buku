@@ -1,0 +1,14 @@
+[
+  {
+    "id": "001",
+    "judul": "Belajar Digital",
+    "harga": 15000,
+    "pdf": "https://drive.google.com/uc?id=PDF_ID"
+  },
+  {
+    "id": "002",
+    "judul": "Panduan Mistis",
+    "harga": 20000,
+    "pdf": "https://drive.google.com/uc?id=PDF_ID_2"
+  }
+]
