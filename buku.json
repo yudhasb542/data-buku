@@ -3,12 +3,12 @@
     "id": "001",
     "judul": "Belajar Digital",
     "harga": 15000,
-    "pdf": "https://drive.google.com/uc?id=PDF_ID"
+    "pdf": "https://drive.google.com/file/d/1mE35ASThUkKaeZ57je8Fo5BcY_ZH04sP/view?usp=drivesdk"
   },
   {
     "id": "002",
     "judul": "Panduan Mistis",
     "harga": 20000,
-    "pdf": "https://drive.google.com/uc?id=PDF_ID_2"
+    "pdf": "2https://drive.google.com/file/d/1kj3UFWVSBsAbJQEluNT4l-eectiqC-3K/view?usp=drivesdk"
   }
 ]
