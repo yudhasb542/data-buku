@@ -10,5 +10,11 @@
     "judul": "Panduan Mistis",
     "harga": 20000,
     "pdf": "2https://drive.google.com/file/d/1kj3UFWVSBsAbJQEluNT4l-eectiqC-3K/view?usp=drivesdk"
-  }
+  },
+  {
+    "id": "003",
+    "judul": "contoh pdf",
+    "harga": 20000,
+    "pdf": "https://github.com/yudhasb542/data-buku/blob/main/acdd1a00-de5a-4af8-bbfa-037875adf5bb.pdf",
+  },
 ]
